@@ -10,7 +10,7 @@ if(isalpha(ch))
 printf("\n is alphabet");
 }
 else{
-printf("\n noy alphabet");
+printf("\n not alphabet");
 }
 getch();
 }
